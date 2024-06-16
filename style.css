@@ -1,0 +1,63 @@
+/* Title*/
+
+
+body{
+    background-color: rgb(236, 245, 242);
+}
+
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: chartreuse;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    font-style: italic;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-right: 5px rgb(3, 3, 3) solid;
+    border-left: 5px solid rgb(2, 2, 2);
+    border-top: 5px solid rgb(8, 8, 8);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    margin: 100px;
+    margin-bottom: 10px;
+    margin-top: -0.001px;
+}
+
+
+/* Section 2*/
+
+
+h2{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 800;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+
+/* Section */
+
+
+h3{
+    text-align: center;
+    padding-right: 15em;
+}
+a{
+    text-decoration: none;,
+    
+}
+
+
+
+
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+
+
+
