@@ -20,9 +20,6 @@ h1{
     border-left: 5px solid rgb(2, 2, 2);
     border-top: 5px solid rgb(8, 8, 8);
     border-bottom: 5px solid rgb(0, 0, 0);
-    margin: 100px;
-    margin-bottom: 10px;
-    margin-top: -0.001px;
 }
 
 
@@ -32,9 +29,11 @@ h1{
 h2{
     text-align: center;
     font-style: oblique;
+    font-size: large;
     font-weight: 800;
     text-decoration: underline;
     text-transform: uppercase;
+    color: azure;
 }
 
 
@@ -46,7 +45,7 @@ h3{
     padding-right: 15em;
 }
 a{
-    text-decoration: none;,
+    text-decoration: none;
     
 }
 
@@ -60,5 +59,60 @@ a:active{
     color: green;
 }
 
+
+
+p{
+    color: azure;
+    font-size: larger;
+}
+
+
+
+li{
+    color: azure;
+    font-size: large;
+    text-decoration: none;
+}
+
+
+h3{
+    color: azure;
+    font-size: larger;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+
+h4{
+    color: aliceblue;
+    font-size: larger;
+    text-align: center;
+    padding-right: 15em;
+}
+
+
+
+a{
+    color: aliceblue;
+}
+
+
+
+h5{
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 800;
+    font-style: oblique;
+    padding-right: 15em;
+}
+
+
+
+
+ol{
+    text-decoration: none;
+}
 
 
