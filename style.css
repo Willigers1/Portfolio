@@ -2,13 +2,13 @@
 
 
 body{
-    background-image: url(image/bmw.png);
-    background-color: rgb(236, 245, 242);
+    background: rgb(51,207,26);
+    background: rgb(51,207,26);
+background: linear-gradient(90deg, rgba(51,207,26,1) 0%, rgba(171,163,38,1) 0%, rgba(0,255,38,0.3897934173669467) 50%, rgba(9,9,121,1) 100%, rgba(5,36,0,1) 100%);
 }
 
 
 h1{
-    text-align: center;
     background-color: blueviolet;
     color: chartreuse;
     text-transform: uppercase;
@@ -20,6 +20,10 @@ h1{
     border-left: 5px solid rgb(2, 2, 2);
     border-top: 5px solid rgb(8, 8, 8);
     border-bottom: 5px solid rgb(0, 0, 0);
+    border: 1px solid red;
+    margin: 0%;
+    padding left: 10px;
+    border-end-end-radius: 500px;
 }
 
 
@@ -27,7 +31,6 @@ h1{
 
 
 h2{
-    text-align: center;
     font-style: oblique;
     font-size: large;
     font-weight: 800;
@@ -41,8 +44,8 @@ h2{
 
 
 h3{
-    text-align: center;
-    padding-right: 15em;
+    
+    
 }
 a{
     text-decoration: none;
@@ -87,8 +90,6 @@ h3{
 h4{
     color: aliceblue;
     font-size: larger;
-    text-align: center;
-    padding-right: 15em;
 }
 
 
@@ -100,19 +101,19 @@ a{
 
 
 h5{
-    text-align: center;
     color: aliceblue;
     font-size: larger;
     font-weight: 800;
     font-style: oblique;
-    padding-right: 15em;
 }
 
 
 
 
 ol{
-    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 
